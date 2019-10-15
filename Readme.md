@@ -1,3 +1,5 @@
+Pierre MIROITE OCRES TD4
+
 # TP 3
 
 A lire impérativement avant de commencer quoi que ce soit, ce sont les règles que vous devrez appliquer tout au long du semestre:
@@ -21,7 +23,7 @@ Le bouton se sert donc plus à rien, il faut l'enlever.
 *Hint: utiliser [la même API mais un end point différent](https://openweathermap.org/forecast16)*
 
 * Créer une autre fonction ei: ```function getThreeDayForecast(){...}```
-* Cette API retourne les prévisions sur les **16 prochains jours.** Prennez donc les trois premiers. 
+* Cette API retourne les prévisions sur les **16 prochains jours.** Prennez donc les trois premiers.
 * Utilisez les fonctions map, filter, sort pour manipuler la data.
 * Je vous conseille vivement d'afficher ce que retourne cette API afin de voir ou chercher l'information.
 * Afficher les mêmes informations que pour la météo d'aujourd'hui, a savoir : le temps principal 'main', la description, la température en Celsius, l'icon.
